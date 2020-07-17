@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/mtg-jmp-arena/static/css/main.5f361e03.chunk.css",
+    "main.js": "/mtg-jmp-arena/static/js/main.c4500f7a.chunk.js",
+    "main.js.map": "/mtg-jmp-arena/static/js/main.c4500f7a.chunk.js.map",
+    "runtime-main.js": "/mtg-jmp-arena/static/js/runtime-main.b5132ada.js",
+    "runtime-main.js.map": "/mtg-jmp-arena/static/js/runtime-main.b5132ada.js.map",
+    "static/css/2.e0cbff77.chunk.css": "/mtg-jmp-arena/static/css/2.e0cbff77.chunk.css",
+    "static/js/2.22ad1d7f.chunk.js": "/mtg-jmp-arena/static/js/2.22ad1d7f.chunk.js",
+    "static/js/2.22ad1d7f.chunk.js.map": "/mtg-jmp-arena/static/js/2.22ad1d7f.chunk.js.map",
+    "index.html": "/mtg-jmp-arena/index.html",
+    "precache-manifest.ed2d701deaa6bacbe0059783e8919f98.js": "/mtg-jmp-arena/precache-manifest.ed2d701deaa6bacbe0059783e8919f98.js",
+    "service-worker.js": "/mtg-jmp-arena/service-worker.js",
+    "static/css/2.e0cbff77.chunk.css.map": "/mtg-jmp-arena/static/css/2.e0cbff77.chunk.css.map",
+    "static/css/main.5f361e03.chunk.css.map": "/mtg-jmp-arena/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.22ad1d7f.chunk.js.LICENSE.txt": "/mtg-jmp-arena/static/js/2.22ad1d7f.chunk.js.LICENSE.txt",
+    "static/media/semantic.min.css": "/mtg-jmp-arena/static/media/outline-icons.ef60a4f6.woff",
+    "static/media/logo.svg": "/mtg-jmp-arena/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b5132ada.js",
+    "static/css/2.e0cbff77.chunk.css",
+    "static/js/2.22ad1d7f.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.c4500f7a.chunk.js"
+  ]
+}
